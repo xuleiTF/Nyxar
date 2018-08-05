@@ -14,4 +14,6 @@ Features:
 
 Documentation: http://nyxar.readthedocs.io/
 
+-xuleiTF
+
 **Note: This project is in very early development stage.**
